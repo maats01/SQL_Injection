@@ -19,7 +19,7 @@ Obs.: o repositório deve estar na pasta raíz do seu ambiente de desenvolviment
 
 ## Passo 2: Criando banco de dados
 
-Como a aplicação se conecta com o banco de dados usando mysqli, é necessário redefinir as variáveis constates em config.php, para se adequar ao seu banco de dados. Deve ser criado um schema com uma tabela LOGIN com id (PK), usuario (varchar) e senha (varchar). Em seguida, pode ser adicionado um usuário fictício para testar a aplicação.
+Como a aplicação se conecta com o banco de dados usando mysqli, é necessário redefinir as variáveis constantes em config.php, para se adequar ao seu banco de dados. Deve ser criado um schema com uma tabela LOGIN com id (PK), usuario (varchar) e senha (varchar). Em seguida, pode ser adicionado um usuário fictício para testar a aplicação.
 
 ## Passo 3: Iniciar o servidor
 
