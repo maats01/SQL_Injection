@@ -3,7 +3,7 @@
 Este repositório contém um projeto desenvolvido utilizando PHP 8. Neste arquivo README, você encontrará um guia passo a passo para executar o projeto em seu ambiente local.
 
 ## Visão geral
-Este projeto tem o propósito de mostrar de modo prático as diferenças entre prepared statements para queries montadas com concatenação simples de strings no PHP. Como consequência, também é possível ver na prática a vulnerabilidade a SQL Injection.
+Este projeto tem o propósito de mostrar de modo prático e educativo as diferenças entre prepared statements para queries montadas com concatenação simples de strings no PHP. Como consequência, também é possível ver na prática a vulnerabilidade a SQL Injection.
 
 ## Pré-requisitos
 
